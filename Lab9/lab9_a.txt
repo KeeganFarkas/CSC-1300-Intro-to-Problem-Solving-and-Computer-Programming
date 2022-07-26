@@ -1,0 +1,10 @@
+1. *
+2. &
+3. Pointer
+4. Pointer
+5. an adress
+6. 3.75
+7. an adress
+8. 3.75
+9. Yes   ptr = &another_pay;
+10.No
